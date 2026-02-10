@@ -15,7 +15,7 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'JUNE-MD:~'.",
+    "description": "JUNE-MD:rtt",
     "value": "",
     "required": true
   }
